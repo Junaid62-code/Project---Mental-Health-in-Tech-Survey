@@ -1,4 +1,4 @@
-**Mental Health in Tech Survey: Predictive Analysis**📊 
+**Mental Health in Tech Survey: Predictive Analysis** 
 Project Overview:
 This repository contains the code and report for an MSc Data Science project focused on predicting mental health treatment-seeking 
 behavior among professionals in the technology sector. 
